@@ -1,4 +1,4 @@
-{grantor: Joe Smith}
+:grantor: Joe Smith
 
 
 ....
